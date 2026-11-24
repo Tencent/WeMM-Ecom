@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://huggingface.co/collections/tencent/wemm-ecom">🤗 Hugging Face</a> &nbsp;·&nbsp;
+  <a href="https://arxiv.org/abs/2611.30662">📑 arXiv</a> &nbsp;·&nbsp;
   <a href="assets/WeMM_Ecom_tech_report.pdf">📄 Technical Report</a> &nbsp;·&nbsp;
   <a href="docs/serving.md">🚀 Serving Guide</a> &nbsp;·&nbsp;
   <a href="LICENSE">⚖️ Apache-2.0</a>
@@ -155,9 +156,9 @@ If you find this repository useful, please consider giving a star ⭐ and citati
       title={WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce},
       author={Binhui Xie and Jinmin Li and Haomiao Tang and Guangting Wang and Song Jin and Jianwei Zhu and Fengyun Rao and Jing LYU},
       year={2026},
-      eprint={},
+      eprint={2611.30662},
       archivePrefix={arXiv},
       primaryClass={cs.AI},
-      url={https://arxiv.org/abs/},
+      url={https://arxiv.org/abs/2611.30662},
 }
 ```
